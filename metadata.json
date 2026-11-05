@@ -1,0 +1,6 @@
+{
+  "name": "CivicFlow AI",
+  "description": "Agentic Civic Operations System for Smart Cities with Spatial-Semantic Deduplication, Real-Time GIS Mapping, and Multi-Agent Municipal Dispatch",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
